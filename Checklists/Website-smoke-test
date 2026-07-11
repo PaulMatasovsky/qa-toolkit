@@ -1,0 +1,135 @@
+Website Smoke Test Checklist
+
+Purpose
+
+A smoke test is a quick, high-level verification that the most critical functionality of a website is working after a deployment, update, or configuration change.
+
+Estimated Time: 5–15 minutes
+
+⸻
+
+Environment
+
+Website:
+
+Version/Release:
+
+Date Tested:
+
+Tester:
+
+Browser(s):
+
+Device:
+
+⸻
+
+Homepage
+
+* Homepage loads successfully
+* No obvious visual layout issues
+* Logo displays correctly
+* Navigation menu functions
+* Footer displays correctly
+* No broken images
+* No obvious spelling or grammar errors
+
+⸻
+
+Navigation
+
+* Primary navigation links work
+* Footer links work
+* Internal links open correctly
+* External links open correctly
+* No 404 pages encountered
+
+⸻
+
+Authentication (If Applicable)
+
+* Login page loads
+* Valid user can log in
+* Invalid credentials show an error
+* User can log out
+* Protected pages require authentication
+
+⸻
+
+Forms
+
+For each major form:
+
+* Form loads
+* Required fields are enforced
+* Successful submission works
+* Error messages display correctly
+* Confirmation message appears
+
+⸻
+
+Content
+
+* Major pages load successfully
+* Images display correctly
+* Videos or embedded media work
+* Downloads function properly
+
+⸻
+
+Mobile Responsiveness
+
+* Navigation works
+* Text is readable
+* Buttons are usable
+* Images resize correctly
+* No overlapping content
+
+⸻
+
+Browser Compatibility
+
+Tested Browsers:
+
+* Chrome
+* Edge
+* Firefox
+* Safari
+
+⸻
+
+Performance
+
+* Pages load within an acceptable time
+* No obvious delays
+* No loading errors
+
+⸻
+
+Security
+
+* HTTPS is enabled
+* No browser security warnings
+* Sensitive pages require authentication
+
+⸻
+
+Console Check
+
+* No JavaScript errors
+* No obvious network failures
+
+⸻
+
+Result
+
+Smoke Test Status
+
+* PASS
+* FAIL
+
+⸻
+
+Notes
+
+Document any issues, observations, or recommendations discovered during testing.
