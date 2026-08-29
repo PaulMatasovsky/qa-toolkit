@@ -1,3 +1,3 @@
 # Learning-Journal
-This folder contains my learning journal. 
-It will begin as one document that I add small entries to each time I learn something.
+This folder contains my learning journal entries. 
+It will begin as one document, and I will add entries when I learn something related to QA.
