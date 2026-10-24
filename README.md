@@ -1,5 +1,5 @@
 # qa-toolkit
-QA Toolkit
+AI-generated QA toolkit — learning project.
 
 A growing collection of quality assurance resources, templates, checklists, and testing documentation that I use while learning and practicing software testing.
 
@@ -7,11 +7,17 @@ This repository serves as both my personal reference library and a portfolio of 
 
 ⸻
 
+Project status and AI disclosure
+
+This toolkit was generated using AI as a starting point for learning QA practices and planning a hands-on website audit. My role has been to define the learning goal and intended use. The toolkit has not yet been validated through a completed audit; its contents should be treated as draft materials pending review and practical testing.
+
+⸻
+
 Purpose
 
 The goal of this repository is to create reusable QA resources that can be applied to a variety of software projects, including websites, web applications, APIs, and future automation projects.
 
-Rather than recreating documentation for every project, I maintain standardized testing assets here that can be adapted as needed.
+Rather than recreating documentation for every project, I will maintain standardized testing assets here that can be adapted as needed.
 
 ⸻
 
