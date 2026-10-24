@@ -1,9 +1,9 @@
 # qa-toolkit
 AI-generated QA toolkit — learning project.
 
-A growing collection of quality assurance resources, templates, checklists, and testing documentation that I use while learning and practicing software testing.
+A growing collection of quality assurance resources, templates, checklists, and testing documentation that I will use while learning and practicing software testing.
 
-This repository serves as both my personal reference library and a portfolio of my work as I continue developing my skills in Quality Assurance (QA) and Quality Engineering.
+This repository will serve as both my personal reference library and a portfolio of my work as I continue developing my skills in Quality Assurance (QA) and Quality Engineering.
 
 ⸻
 
@@ -51,7 +51,7 @@ As this repository grows, additional sections will be added for automation, API 
 
 Current Focus
 
-I’m currently building foundational QA documentation while applying these practices to my own software projects.
+I’m going to be building foundational QA documentation while applying these practices to my own software projects.
 
 Current areas of study include:
 
