@@ -1,26 +1,15 @@
-Poor Bug Report Example
+# Example: Incomplete Bug Report
 
-Title
+**Fictional, AI-generated example.** This is intentionally incomplete and does not describe a tested application.
 
-Login broken
+> **Title:** Login broken  
+> **Description:** Login doesn't work.
 
-Description:
+## Why This Report Is Inadequate
 
-Login doesn’t work.
+- The affected application, build, browser, and device are not identified.
+- There are no steps to reproduce the issue.
+- Expected and actual results are missing.
+- Frequency, impact, and supporting evidence are not recorded.
 
-That’s all.
-
-⸻
-
-Why This Is a Poor Report
-
-* No environment information.
-* No browser listed.
-* No reproduction steps.
-* No expected result.
-* No actual result.
-* No screenshots.
-* No indication of severity or priority.
-* Impossible for a developer to reproduce consistently.
-
-A good bug report should provide enough information that another person can reproduce the issue without needing to ask follow-up questions.
+A useful report gives another person enough information to investigate and, where possible, reproduce the problem. See the [well-structured example](Good-Bug-Report-Example.md).

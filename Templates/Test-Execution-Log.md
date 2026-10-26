@@ -1,18 +1,25 @@
-Test Execution Log
+# Test Execution Log
 
-Date	Tester	Test Case ID	Feature	Result	Bug ID	Notes
-				Pass		
-				Fail		
-				Blocked		
+*AI-generated blank template. No tests have been executed.*
 
-Daily Summary
+- **Project / release:** 
+- **Tester:** 
+- **Date:** 
 
-Tests Executed:
+| Test case ID | Feature | Result (Pass / Fail / Blocked / N/A) | Defect ID | Evidence / notes |
+|---|---|---|---|---|
+| — | — | NOT RUN | — | — |
 
-Pass:
+## Summary
 
-Fail:
+| Metric | Count |
+|---|---|
+| Executed | — |
+| Passed | — |
+| Failed | — |
+| Blocked | — |
+| Not run | — |
 
-Blocked:
+**Comments / next actions:** 
 
-Comments:
+Replace the placeholder row with actual test executions. A blank or example row is not a test result.

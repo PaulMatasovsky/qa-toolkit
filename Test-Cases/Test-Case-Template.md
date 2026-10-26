@@ -1,63 +1,33 @@
-Test Case Template
+# Test Case Template
 
-Test Case Information
+*AI-generated blank template; no execution has occurred.*
 
-Test Case ID:
+- **Test case ID:** 
+- **Title:** 
+- **Feature / requirement:** 
+- **Author / date:** 
+- **Environment:** 
 
-Title:
+## Objective
 
-Module/Feature:
+What behavior does this test verify?
 
-Author:
+## Preconditions and Test Data
 
-Date Created:
+State the required setup. Use synthetic or approved test data; do not record private credentials.
 
-Last Updated:
+## Steps
 
-⸻
+| Step | Action | Expected result |
+|---|---|---|
+| 1 | — | — |
+| 2 | — | — |
+| 3 | — | — |
 
-Objective
+## Execution Record
 
-Briefly describe what this test verifies.
-
-⸻
-
-Preconditions
-
-List any required setup before executing the test.
-
-⸻
-
-Test Data
-
-List any usernames, passwords, sample data, or other required inputs.
-
-⸻
-
-Test Steps
-
-Step	Action	Expected Result
-1		
-2		
-3		
-
-⸻
-
-Actual Result
-
-Record the actual outcome after executing the test.
-
-⸻
-
-Status
-
-* Pass
-* Fail
-* Blocked
-* Not Executed
-
-⸻
-
-Notes
-
-Record observations, defects, or follow-up actions.
+- **Actual result:** 
+- **Status:** NOT RUN / PASS / FAIL / BLOCKED / N/A
+- **Date / tester:** 
+- **Defect / evidence links:** 
+- **Notes:**

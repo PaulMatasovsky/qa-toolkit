@@ -1,75 +1,47 @@
-Test Summary Report
+# Test Summary Report
 
-Project
+*AI-generated blank template. No testing results are provided.*
 
-Project:
+## Project Information
 
-Version:
+- **Project / release:** 
+- **Test cycle:** 
+- **Tester / date:** 
+- **Environment:** 
 
-Test Cycle:
+## Scope
 
-Tester:
+What was tested? What was excluded? 
 
-Date:
+## Testing Performed
 
-⸻
+List the actual testing types and links to the executed cases or checklists.
 
-Scope
+## Results
 
-Briefly describe what was tested during this cycle.
+| Metric | Count |
+|---|---|
+| Test cases executed | — |
+| Passed | — |
+| Failed | — |
+| Blocked | — |
+| Not executed | — |
 
-⸻
+## Defects
 
-Testing Performed
+| Severity | Count |
+|---|---|
+| Critical | — |
+| High | — |
+| Medium | — |
+| Low | — |
 
-* Smoke Testing
-* Regression Testing
-* Functional Testing
-* Exploratory Testing
+**Outstanding defects:** 
 
-⸻
+**Risks and limitations:** 
 
-Test Results
+**Recommendation:** Not assessed / Ready / Ready with known issues / Not ready
 
-Metric	Count
-Test Cases Executed	
-Passed	
-Failed	
-Blocked	
-Not Executed	
+**Evidence and links:** 
 
-⸻
-
-Defects
-
-Severity	Count
-Critical	
-High	
-Medium	
-Low	
-
-⸻
-
-Outstanding Issues
-
-List any defects that remain unresolved.
-
-⸻
-
-Risks
-
-Describe any remaining concerns before release.
-
-⸻
-
-Recommendation
-
-* Ready for Release
-* Ready with Known Issues
-* Not Ready for Release
-
-⸻
-
-Lessons Learned
-
-Document improvements for future testing cycles.
+**Lessons learned / improvements:**

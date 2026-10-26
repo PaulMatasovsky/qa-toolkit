@@ -1,162 +1,60 @@
-Website Regression Test Checklist
+# Website Regression Test Checklist
 
-Purpose
+**AI-generated blank checklist — not executed.** Select only the features relevant to the release; this is a starting point, not a completed test.
 
-A regression test verifies that existing functionality continues to work correctly after updates, bug fixes, feature additions, or configuration changes.
+- **Website / release:** 
+- **Change being tested:** 
+- **Date / tester:** 
+- **Browsers / devices:** 
+- **Environment:** 
 
-Unlike a smoke test, regression testing focuses on ensuring that previously working features have not been unintentionally affected.
+## Functional Areas
 
-Estimated Time: 30–120 minutes (depending on project size)
+### Navigation and Content
 
-⸻
+- [ ] Primary navigation, footer, and relevant breadcrumbs.
+- [ ] Internal / external links and any search function.
+- [ ] Major pages, images, downloads, and embedded content.
 
-Environment
+### Forms and Authentication (if applicable)
 
-Website:
+- [ ] Required and optional field validation.
+- [ ] Invalid input and error handling.
+- [ ] Successful submissions and confirmations.
+- [ ] Login, logout, password reset, and session behavior.
+- [ ] User permissions and protected pages.
 
-Version/Release:
+### Presentation and Compatibility
 
-Date Tested:
+- [ ] Layout, typography, buttons, and icons.
+- [ ] Responsive behavior on applicable viewport sizes.
+- [ ] Touch navigation and mobile forms.
+- [ ] Features in the browsers actually supported.
 
-Tester:
+### Data and Integration (if applicable)
 
-Browsers:
+- [ ] Created or updated data persists as expected.
+- [ ] Deleted data is handled correctly.
+- [ ] External services or embedded integrations continue working.
 
-Devices:
+### Performance and Technical Checks
 
-⸻
+- [ ] Important pages load within project expectations.
+- [ ] No relevant new console errors or failed network requests.
+- [ ] HTTPS and access restrictions continue working.
 
-User Authentication
+## Execution Summary
 
-* Login with valid credentials
-* Login with invalid credentials
-* Password reset process
-* Logout
-* Session timeout behaves correctly
+| Result | Count |
+|---|---|
+| Passed | — |
+| Failed | — |
+| Blocked | — |
+| Not run / not applicable | — |
 
-⸻
+- **Overall status:** NOT RUN / PASS / PASS WITH ISSUES / FAIL
+- **Defect IDs / evidence:** 
+- **Retest needs:** 
+- **Notes:** 
 
-Navigation
-
-* Main navigation
-* Footer navigation
-* Breadcrumbs (if applicable)
-* Search functionality
-* Internal links
-* External links
-
-⸻
-
-User Interface
-
-* Layout displays correctly
-* Buttons function correctly
-* Icons display properly
-* Images load
-* Responsive design remains intact
-* Typography is consistent
-
-⸻
-
-Forms
-
-For each major form:
-
-* Required field validation
-* Optional fields
-* Invalid input handling
-* Successful submission
-* Confirmation messages
-* Error messages
-
-⸻
-
-Content
-
-* Pages load successfully
-* Downloads work
-* Embedded media functions
-* Dynamic content displays correctly
-
-⸻
-
-User Permissions
-
-* Guest access
-* Registered user access
-* Administrator access
-* Restricted pages remain protected
-
-⸻
-
-Database Verification
-
-* New records are saved
-* Existing records display correctly
-* Deleted records are handled properly
-* Updates persist correctly
-
-⸻
-
-Browser Compatibility
-
-* Chrome
-* Edge
-* Firefox
-* Safari
-
-⸻
-
-Mobile Testing
-
-* Navigation
-* Forms
-* Responsive layout
-* Touch controls
-* Screen orientation
-
-⸻
-
-Performance
-
-* Page load speed is acceptable
-* No unexpected slowdowns
-* Large pages load successfully
-
-⸻
-
-Security
-
-* HTTPS remains enabled
-* Authentication functions correctly
-* Protected resources remain inaccessible without authorization
-* No sensitive information is exposed
-
-⸻
-
-Console Review
-
-* No JavaScript errors
-* No failed network requests
-* No new console warnings related to the recent changes
-
-⸻
-
-Issues Found
-
-ID	Description	Severity	Status
-			
-
-⸻
-
-Regression Test Result
-
-* PASS
-* PASS WITH MINOR ISSUES
-* FAIL
-
-⸻
-
-Notes
-
-Record observations, defects discovered, retest requirements, and recommendations before release.
+Mark inapplicable tests explicitly. Do not report PASS until relevant checks have been executed and recorded.

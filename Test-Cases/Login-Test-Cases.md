@@ -1,39 +1,14 @@
-Login Test Cases
+# Sample Login Test Scenarios
 
-TC-001: Valid Login
+**AI-generated, unexecuted examples.** These assume an application with a login page. They are not findings from the portfolio website.
 
-Objective: Verify that a registered user can log in with valid credentials.
+| ID | Scenario | Expected behavior |
+|---|---|---|
+| TC-001 | Enter valid credentials | User signs in and reaches an authorized page |
+| TC-002 | Enter an invalid password | Access is rejected with an appropriate message |
+| TC-003 | Leave username blank | Input is rejected or appropriate validation appears |
+| TC-004 | Leave password blank | Input is rejected or appropriate validation appears |
+| TC-005 | Use Remember Me, if supported | Session behavior matches requirements |
+| TC-006 | Log out | Session ends and protected pages require reauthentication |
 
-Expected Result: User is successfully authenticated and redirected to the dashboard.
-
-⸻
-
-TC-002: Invalid Password
-
-Objective: Verify that an incorrect password is rejected.
-
-Expected Result: An error message is displayed and the user remains on the login page.
-
-⸻
-
-TC-003: Empty Username
-
-Expected Result: Validation message appears.
-
-⸻
-
-TC-004: Empty Password
-
-Expected Result: Validation message appears.
-
-⸻
-
-TC-005: Remember Me
-
-Expected Result: User remains logged in after closing and reopening the browser (if supported).
-
-⸻
-
-TC-006: Logout
-
-Expected Result: User session ends and protected pages require login again.
+Before execution, add environment, preconditions, steps, test accounts, and evidence using the [test case template](Test-Case-Template.md). Never publish real passwords or sensitive account data.

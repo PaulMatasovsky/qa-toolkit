@@ -1,158 +1,52 @@
-Software Test Plan Template
+# Software Test Plan Template
 
-Project Information
+*AI-generated blank template — not an approved or executed test plan.*
 
-Project Name:
+## Project Information
 
-Version:
+- **Project / release:** 
+- **Prepared by / date:** 
+- **Environment:** 
 
-Prepared By:
+## Purpose and Scope
 
-Date:
+**Purpose:** Why is this testing needed?
 
-⸻
+**In scope:** Which features and user flows will be checked?
 
-Purpose
+**Out of scope:** What will not be tested, and why?
 
-Describe the purpose of testing for this release and the goals of the test effort.
+## Approach
 
-⸻
+- **Testing types selected:** Smoke / Regression / Functional / Exploratory / Other
+- **Browsers and devices:** 
+- **Test data and accounts:** Use approved non-sensitive data.
+- **Tools and evidence:** 
+- **Who will test and review:** 
 
-Scope
+## Entry Criteria
 
-In Scope
+What must be ready before testing starts? (For example: stable build, accessible environment, and available test data.)
 
-List the features that will be tested.
+## Exit Criteria
 
-Example:
+What conditions must be met before testing ends? Define required coverage and how unresolved defects will be handled.
 
-* User Authentication
-* Navigation
-* Shopping Cart
-* Forms
-* User Profile
+## Risks and Limitations
 
-⸻
+Record time constraints, unsupported browsers, unavailable dependencies, or missing requirements.
 
-Out of Scope
+## Deliverables
 
-List features that will not be tested during this cycle.
+Link the test cases, execution log, defects, evidence, and test summary when they exist.
 
-⸻
+## Schedule and Approval
 
-Test Objectives
+| Activity | Planned date | Actual status |
+|---|---|---|
+| Test planning | — | Not started |
+| Test execution | — | Not started |
+| Defect verification | — | Not started |
+| Summary / review | — | Not started |
 
-* Verify core functionality.
-* Ensure existing features continue working.
-* Identify defects before release.
-* Validate user experience.
-
-⸻
-
-Test Environment
-
-Environment:
-
-* Development
-* Staging
-* Production
-
-Browsers
-
-* Chrome
-* Edge
-* Firefox
-* Safari
-
-Devices
-
-* Desktop
-* Tablet
-* Mobile
-
-⸻
-
-Test Types
-
-* Smoke Testing
-* Regression Testing
-* Functional Testing
-* Exploratory Testing
-* User Acceptance Testing (UAT)
-* Cross-Browser Testing
-* Responsive Testing
-
-⸻
-
-Entry Criteria
-
-Testing may begin when:
-
-* Build is deployed.
-* Required features are complete.
-* Environment is available.
-* Test data is prepared.
-
-⸻
-
-Exit Criteria
-
-Testing is complete when:
-
-* All critical defects are resolved.
-* Smoke tests pass.
-* Regression tests pass.
-* No blocker defects remain.
-* Stakeholders approve release.
-
-⸻
-
-Risks
-
-Identify known testing risks.
-
-Examples:
-
-* Limited testing time
-* Third-party integrations
-* Browser compatibility
-* Incomplete requirements
-
-⸻
-
-Deliverables
-
-* Test Plan
-* Test Cases
-* Bug Reports
-* Test Summary Report
-
-⸻
-
-Roles
-
-Role	Responsibility
-QA Tester	Execute tests
-Developer	Fix defects
-Project Owner	Approve release
-
-⸻
-
-Schedule
-
-Activity	Status
-Test Planning	
-Test Case Creation	
-Test Execution	
-Bug Fix Verification	
-Final Approval	
-
-⸻
-
-Approval
-
-Project Owner:
-
-QA:
-
-Developer:
+- **Approval or reviewer (if applicable):**

@@ -1,55 +1,31 @@
-Severity vs. Priority
+# Severity vs. Priority
 
-Although these terms are often used together, they measure different aspects of a defect.
+*AI-generated reference; examples are hypothetical.*
 
-Severity
+**Severity** describes the impact of a defect. **Priority** describes how urgently it should be addressed. They are related but not interchangeable.
 
-Severity measures how much the bug affects the system.
+## Severity
 
-Level	Description
-Critical	Application crash, security issue, or data loss
-High	Major functionality is unusable
-Medium	Feature works with limitations
-Low	Cosmetic issue or minor inconvenience
+| Level | Illustrative impact |
+|---|---|
+| Critical | Data loss, serious security exposure, or a major system outage |
+| High | Major functionality unavailable |
+| Medium | Feature partially works or has a significant workaround |
+| Low | Cosmetic issue or minor inconvenience |
 
-⸻
+## Priority
 
-Priority
+| Level | Illustrative urgency |
+|---|---|
+| P1 | Immediate attention |
+| P2 | Address soon / before an important release |
+| P3 | Normal planned work |
+| P4 | Defer if necessary |
 
-Priority measures how urgently the bug should be fixed.
+## Examples
 
-Level	Description
-P1	Fix immediately
-P2	Fix before next release
-P3	Normal development priority
-P4	Fix when time permits
+- **Homepage typo:** Low severity, but potentially high priority immediately before a public launch.
+- **Back-office report issue:** Potentially high severity, but its priority depends on who is affected, deadlines, and available workarounds.
+- **Slightly misaligned icon:** Usually low severity and low priority.
 
-⸻
-
-Examples
-
-Homepage typo
-
-Severity: Low
-
-Priority: High
-
-⸻
-
-Admin report crashes
-
-Severity: Critical
-
-Priority: Medium
-
-⸻
-
-Button slightly misaligned
-
-Severity: Low
-
-Priority: Low
-
-⸻
-
-Understanding the difference helps QA teams communicate both technical impact and business impact.
+Actual severity and priority definitions must follow the organization's own policy.

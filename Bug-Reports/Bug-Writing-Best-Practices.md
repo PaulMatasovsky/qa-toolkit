@@ -1,67 +1,16 @@
-Bug Writing Best Practices
+# Bug Report Writing Guide
 
-Write Clear Titles
+*AI-generated reference; intended for review before use.*
 
-Good:
+A useful bug report should let someone reproduce the issue and understand its impact.
 
-* Checkout page displays a 500 error after payment submission.
+1. **Use a specific title.** “Checkout page returns a 500 error after payment submission” is more useful than “Checkout broken.”
+2. **Be objective.** Describe what happened without attributing blame.
+3. **Include the environment.** Record the application version, browser, device, and relevant configuration.
+4. **Write repeatable steps.** Include any prerequisites and necessary test data.
+5. **Separate expected and actual results.** Explain the difference clearly.
+6. **Attach evidence where appropriate.** Include sanitized screenshots, logs, console messages, or recordings.
+7. **Keep one issue per report.** Separate unrelated defects.
+8. **Confirm when possible.** Note the frequency and any conditions under which the problem cannot be reproduced.
 
-Poor:
-
-* Checkout broken.
-
-⸻
-
-Keep Reports Objective
-
-Describe what happened without assigning blame or making assumptions.
-
-Instead of:
-
-The developer broke the login page.
-
-Write:
-
-The login page returns a 500 error after submitting valid credentials.
-
-⸻
-
-Include Reproduction Steps
-
-A developer should be able to reproduce the issue by following your documented steps.
-
-⸻
-
-Include Expected and Actual Results
-
-Always explain both what should have happened and what actually happened.
-
-⸻
-
-Attach Evidence
-
-Whenever possible, include:
-
-* Screenshots
-* Screen recordings
-* Browser console output
-* Network logs
-* Error messages
-
-⸻
-
-One Bug Per Report
-
-Avoid combining unrelated issues into a single bug report.
-
-⸻
-
-Reproduce Before Reporting
-
-Whenever possible, verify the issue more than once before submitting it.
-
-⸻
-
-Be Consistent
-
-Follow the same report structure for every bug to improve communication and traceability.
+See the [report template](Bug-Report-Template.md) and [fictional example](Good-Bug-Report-Example.md).

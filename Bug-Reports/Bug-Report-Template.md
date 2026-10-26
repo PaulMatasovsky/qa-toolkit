@@ -1,141 +1,46 @@
-Bug Report Template
+# Bug Report Template
 
-Bug Information
+*AI-generated blank template; not a reported or verified defect.*
 
-Bug ID:
+## Identification
 
-Title:
+- **Bug ID:** 
+- **Title:** 
+- **Date reported:** 
+- **Reported by:** 
+- **Application / version:** 
+- **Environment:** Development / Staging / Production / Other
+- **Operating system:** 
+- **Browser / device:** 
 
-Date Reported:
+## Impact and Priority
 
-Reported By:
+- **Severity:** Critical / High / Medium / Low
+- **Priority:** P1 / P2 / P3 / P4
+- **Frequency:** Always / Often / Sometimes / Rarely / Not confirmed
 
-Application/Website:
+## Description
 
-Version/Build:
+**Summary:** Briefly describe the issue.
 
-Environment:
+**Preconditions:** List required setup or account state.
 
-* Production
-* Staging
-* Development
+**Steps to reproduce:**
 
-Operating System:
+1. 
+2. 
+3. 
 
-Browser/Device:
+**Expected result:** 
 
-⸻
+**Actual result:** 
 
-Severity
+**Evidence:** Link screenshots, recordings, relevant error messages, or sanitized logs. Never publish passwords or private user data.
 
-* Critical
-* High
-* Medium
-* Low
+## Resolution and Verification
 
-Priority
-
-* P1 (Immediate)
-* P2 (High)
-* P3 (Normal)
-* P4 (Low)
-
-⸻
-
-Summary
-
-Provide a brief description of the issue in one or two sentences.
-
-⸻
-
-Preconditions
-
-List any setup or conditions required before reproducing the issue.
-
-Example:
-
-* User is logged in.
-* User has administrator permissions.
-* Shopping cart contains at least one item.
-
-⸻
-
-Steps to Reproduce
-
-⸻
-
-Expected Result
-
-Describe what should have happened.
-
-⸻
-
-Actual Result
-
-Describe what actually happened.
-
-⸻
-
-Frequency
-
-* Always
-* Often
-* Sometimes
-* Rarely
-* Unable to Reproduce
-
-⸻
-
-Attachments
-
-Include any supporting evidence, such as:
-
-* Screenshots
-* Screen recordings
-* Console errors
-* Log files
-* Network captures
-
-⸻
-
-Developer Notes
-
-Optional space for technical observations.
-
-⸻
-
-Status
-
-* New
-* Assigned
-* In Progress
-* Fixed
-* Ready for Retest
-* Verified
-* Closed
-* Reopened
-
-⸻
-
-Resolution
-
-Record the final outcome after verification.
-
-⸻
-
-QA Verification
-
-Retested By:
-
-Retest Date:
-
-Result:
-
-* Pass
-* Fail
-
-⸻
-
-Comments
-
-Additional notes, observations, or follow-up information.
+- **Status:** New / Assigned / In progress / Fixed / Ready for retest / Verified / Closed / Reopened
+- **Resolution / developer notes:** 
+- **Retested by / date:** 
+- **Retest result:** Pass / Fail / Blocked / Not retested
+- **Comments:**

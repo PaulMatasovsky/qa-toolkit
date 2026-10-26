@@ -1,49 +1,14 @@
-Website Core Test Cases
+# Website Core Test Scenarios
 
-Homepage
+**AI-generated scenario inventory — not executed tests.** Select applicable items and add detailed steps before running them.
 
-* Homepage loads successfully.
-* Logo is visible.
-* Navigation menu works.
-* Footer is displayed correctly.
+| Area | Scenario | Expected behavior |
+|---|---|---|
+| Homepage | Load the page and inspect logo, navigation, and footer | Essential content displays |
+| Navigation | Follow main internal and external links | Destinations load correctly |
+| Forms | Submit valid and invalid inputs | Validation and submission match requirements |
+| Media | Open images, videos, and downloads | Supported assets work |
+| Mobile | View common mobile widths and use key controls | Content remains readable and usable |
+| Browser compatibility | Repeat important flows in supported browsers | Core features behave consistently |
 
-⸻
-
-Navigation
-
-* Internal links work.
-* External links open correctly.
-* No broken links.
-
-⸻
-
-Forms
-
-* Required fields validate.
-* Successful submissions complete.
-* Error messages display correctly.
-
-⸻
-
-Media
-
-* Images load.
-* Videos play.
-* Downloads function correctly.
-
-⸻
-
-Mobile
-
-* Layout adjusts correctly.
-* Buttons are usable.
-* Text remains readable.
-
-⸻
-
-Browser Compatibility
-
-* Chrome
-* Edge
-* Firefox
-* Safari
+To turn these into executable cases, use the [test case template](Test-Case-Template.md). No pass/fail results are asserted here.
