@@ -1,6 +1,8 @@
 # QA Toolkit
 
-**Status: AI-generated learning materials — not yet validated through a completed audit.**
+**Project status:** **In Progress** · **Activity:** Paused (pending hands-on audit)
+
+**Validation:** AI-generated learning materials; no completed website audit or verified test execution yet.
 
 I created this repository as a starting point for learning practical QA workflows and preparing to audit my portfolio website. I defined the learning goal and intended use; AI generated the initial checklists, templates, reference notes, and examples.
 
