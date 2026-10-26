@@ -1,38 +1,22 @@
-# Learning Journal - Building the QA Toolkit
+# Planning Note: Building the QA Toolkit
 
-**Date:** July 11, 2026
+**Original date:** July 11, 2026  
+**Provenance:** AI-generated learning/planning note; **not an executed QA journal entry**.
 
-## Overview
+## Original Goal
 
-Today I created the foundation of my QA Toolkit repository. Rather than immediately jumping into testing software, I focused on building reusable documentation and templates that can be applied across future projects.
+Create a reusable starting point for learning QA practices and later auditing a real website, without rebuilding the same templates for every project.
 
-## What I Created
+## Materials Generated
 
-* Repository README
-* Website Smoke Test Checklist
-* Website Regression Test Checklist
-* Bug Report Template
-* Good and Poor Bug Report Examples
-* Severity vs. Priority Guide
-* Bug Writing Best Practices
-* Test Case Template
-* Sample Login Test Cases
-* Website Core Test Cases
-* Test Case Writing Guide
-* Test Plan Template
-* Test Summary Report
-* Test Execution Log
+The initial repository included smoke and regression checklists, bug-report templates and examples, sample test cases, a test-plan template, an execution log, and a summary report.
 
-## What I Learned
+These are starter materials. Generating them does not demonstrate that they have been reviewed, adapted, or used to complete an audit.
 
-One of the biggest realizations today was that quality assurance is much more than simply "finding bugs." A QA engineer is responsible for creating a repeatable process that helps ensure software quality throughout development.
+## Intended Organization
 
-I also learned that documentation serves different purposes. Templates provide reusable forms, checklists verify functionality, test cases define repeatable procedures, bug reports communicate defects, and test plans organize the overall testing effort.
+Keep reusable resources in this toolkit and put executed tests, actual defects, and screenshots with the project being tested.
 
-## Decisions Made
+## Next Practical Step
 
-I decided to separate reusable QA resources from project-specific testing. The QA Toolkit will remain my central library of templates and documentation, while each software project will contain its own QA folder with completed test plans, executed test cases, bug reports, and testing evidence.
-
-## Next Steps
-
-My next goal is to finish building my personal website so I can use it as my first real QA project. Once it reaches a stable state, I will execute the testing process using the documents created in this repository and begin building a portfolio of real-world testing artifacts.
+Choose a defined test scope on my portfolio website, review the generated templates, execute a small set of tests, and document the real results.

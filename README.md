@@ -1,57 +1,23 @@
-# qa-toolkit
-AI-generated QA toolkit — learning project.
+# QA Toolkit
 
-## Project status and AI disclosure
+**Status: AI-generated learning materials — not yet validated through a completed audit.**
 
-This toolkit was generated using AI as a starting point for learning QA practices and planning a hands-on website audit. My role has been to define the learning goal and intended use. The toolkit has not yet been validated through a completed audit; its contents should be treated as draft materials pending review and practical testing.
+I created this repository as a starting point for learning practical QA workflows and preparing to audit my portfolio website. I defined the learning goal and intended use; AI generated the initial checklists, templates, reference notes, and examples.
 
-⸻
+**These are draft resources, not records of tests I have executed.** No completed website audit, verified defects, or test results are presented here. I plan to review and adapt the materials as I carry out hands-on testing.
 
-## Purpose
+## Contents
 
-The goal of this repository is to create reusable QA resources that can be applied to a variety of software projects, including websites, web applications, APIs, and future automation projects.
-It will also serve as a starting point for developing my practical QA experience.
-Rather than recreating documentation for every project, I will maintain standardized testing assets here that can be adapted as needed.
+- [Checklists](Checklists/) — draft website smoke and regression checklists.
+- [Test Cases](Test-Cases/) — reusable case template and illustrative test scenarios.
+- [Test Plans](Test-Plans/) — planning template for a future test cycle.
+- [Bug Reports](Bug-Reports/) — report template, writing guide, and fictional examples.
+- [Templates](Templates/) — execution log and summary report templates.
+- [Documentation](Documentation/) — short QA reference notes.
+- [Learning Journal](Learning-Journal/) — AI-generated planning notes from the initial learning exercise.
 
-⸻
+## Intended Workflow
 
-## Repository Structure
+For a specific project, I intend to define the test scope, adapt the checklists and test cases, perform the tests, record actual results, and retest any defects.
 
-QA-Toolkit
-│
-├── Checklists
-├── Templates
-├── Test-Cases
-├── Bug-Reports
-├── Test-Plans
-├── Documentation
-└── Learning-Journal
-
-As this repository grows, additional sections will be added for automation, API testing, accessibility, performance testing, and other QA disciplines.
-
-⸻
-
-## Next Steps
-
-I’m going to be building foundational QA documentation while applying these practices to my own software projects.
-
-First areas of study will include:
-
-* Manual Testing
-* Accessibility testing
-* Website Testing
-* Regression Testing
-* Smoke Testing
-* User Acceptance Testing (UAT)
-* Exploratory Testing
-* Bug Reporting
-* Test Planning
-
-Planned additions will include:
-
-* Developing and validating test cases through practical testing
-* API testing documentation
-* SQL testing examples
-* Security testing basics
-
-
+**Next step:** Perform and document a real audit of my portfolio website. Until then, this repository should be evaluated as an AI-assisted learning exercise rather than evidence of professional QA execution.

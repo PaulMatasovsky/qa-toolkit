@@ -1,16 +1,9 @@
-# Documentation
-This folder contains other miscellaneous documention I use when QA Testing.
+# QA Reference Notes
 
+This folder contains brief, AI-generated study references. They are not evidence of completed testing.
 
-Here is the planned structure for this folder:
-Documentation/
-│
-├── QA-Fundamentals.md
-├── Testing-Types.md
-├── Bug-Life-Cycle.md
-├── Software-Development-Life-Cycle.md
-├── Software-Testing-Life-Cycle.md
-├── Severity-vs-Priority.md
-├── Testing-Techniques.md
-├── Exploratory-Testing.md
-└── QA-Glossary.md
+- [Testing Types and Techniques](Testing-Types.md) — short definitions and example techniques.
+
+For related material, see [Severity vs. Priority](../Bug-Reports/Severity-vs-Priority.md), the [bug-reporting examples](../Bug-Reports/), and the [test-case writing guide](../Test-Cases/Test-Case-Writing-Guide.md).
+
+Outline-only and empty reference pages were removed to keep the repository focused on materials that are useful now.

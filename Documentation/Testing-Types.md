@@ -1,95 +1,27 @@
-#     Testing-Types
+# Testing Types and Techniques
 
-A reference guide for different testing approaches:
+*AI-generated reference notes; not a record of executed tests.*
 
-* Functional testing
-* Regression testing
-* Smoke testing
-* Sanity testing
-* Exploratory testing
-* Integration testing
-* System testing
-* Acceptance testing
-* Performance testing
-* Security testing
-* Accessibility testing
+## Common Testing Types
 
+| Type | Purpose |
+|---|---|
+| Smoke | Quick check of critical functions after a change or deployment |
+| Regression | Check previously working behavior after changes |
+| Functional | Compare a feature's behavior with its requirements |
+| Exploratory | Learn about the product while designing and executing tests |
+| Integration | Check interactions between components or services |
+| Acceptance / UAT | Determine whether business needs are satisfied |
+| Accessibility | Evaluate whether people with disabilities can use the product |
+| Performance | Examine responsiveness and behavior under load |
+| Security | Assess potential risks to data, access, and system behavior |
 
-Testing-Techniques.md
+## Example Test Design Techniques
 
-This is where you document actual testing methods.
+**Equivalence partitioning:** Choose representative inputs from meaningful groups. For an age field accepting 1–120, example groups could be values below 1, from 1 to 120, and above 120.
 
-Examples:
+**Boundary value analysis:** Test values at and around a limit. For a minimum password length of 8 characters, try lengths 7, 8, and 9.
 
-Equivalence Partitioning
+**Exploratory testing:** Work from a focused test mission, record actions and observations, and adapt the next checks based on what is learned.
 
-Instead of testing every possible value, divide inputs into groups.
-
-Example:
-
-Age field:
-
-* Invalid: -1
-* Valid: 1-120
-* Invalid: 121+
-
-⸻
-
-Boundary Value Analysis
-
-Test the edges.
-
-Example:
-
-Password requires 8 characters:
-
-Test:
-
-* 7 characters
-* 8 characters
-* 9 characters
-
-⸻
-
-7. Exploratory-Testing.md
-
-This is important because it demonstrates maturity.
-
-Exploratory testing is not random clicking.
-
-It is:
-
-Learning, designing, and executing tests simultaneously.
-
-Include:
-
-* Testing missions
-* Notes
-* Observations
-* Time-boxing
-* Session reporting
-
-⸻
-
-8. QA-Glossary.md
-
-A quick reference.
-
-Examples:
-
-Regression Testing
-
-Testing existing functionality after changes.
-
-Defect
-
-A difference between expected behavior and actual behavior.
-
-Test Case
-
-A documented set of steps used to verify functionality.
-
-UAT
-
-Testing performed by users or stakeholders to verify business requirements.
-
+Use these notes to plan suitable tests; the presence of a testing type here does not mean it has been performed.
