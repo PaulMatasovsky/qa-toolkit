@@ -2,11 +2,11 @@
 
 **AI-generated blank checklist — not executed.** Select only the features relevant to the release; this is a starting point, not a completed test.
 
-- **Website / release:** 
-- **Change being tested:** 
-- **Date / tester:** 
-- **Browsers / devices:** 
-- **Environment:** 
+- **Website / release:**
+- **Change being tested:**
+- **Date / tester:**
+- **Browsers / devices:**
+- **Environment:**
 
 ## Functional Areas
 
@@ -43,18 +43,12 @@
 - [ ] No relevant new console errors or failed network requests.
 - [ ] HTTPS and access restrictions continue working.
 
-## Execution Summary
-
-| Result | Count |
-|---|---|
-| Passed | — |
-| Failed | — |
-| Blocked | — |
-| Not run / not applicable | — |
+## Run Notes
 
 - **Overall status:** NOT RUN / PASS / PASS WITH ISSUES / FAIL
-- **Defect IDs / evidence:** 
-- **Retest needs:** 
-- **Notes:** 
+- **Skipped or not-applicable checks:**
+- **Execution log / defect evidence:**
+- **Retest needs:**
+- **Notes:**
 
-Mark inapplicable tests explicitly. Do not report PASS until relevant checks have been executed and recorded.
+Record individual test outcomes in the [execution log](../Templates/Test-Execution-Log.md). Do not report PASS until the relevant checks have been run.

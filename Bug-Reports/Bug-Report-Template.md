@@ -4,43 +4,47 @@
 
 ## Identification
 
-- **Bug ID:** 
-- **Title:** 
-- **Date reported:** 
-- **Reported by:** 
-- **Application / version:** 
+- **Bug ID:**
+- **Title:**
+- **Date reported / reported by:**
+- **Application / version:**
 - **Environment:** Development / Staging / Production / Other
-- **Operating system:** 
-- **Browser / device:** 
+- **Browser / device / operating system:**
 
-## Impact and Priority
+## Impact
 
 - **Severity:** Critical / High / Medium / Low
 - **Priority:** P1 / P2 / P3 / P4
 - **Frequency:** Always / Often / Sometimes / Rarely / Not confirmed
 
-## Description
+## What Happened
 
-**Summary:** Briefly describe the issue.
+**Summary:**
 
-**Preconditions:** List required setup or account state.
+**Preconditions / test data:**
 
 **Steps to reproduce:**
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
-**Expected result:** 
+**Expected result:**
 
-**Actual result:** 
+**Actual result:**
 
-**Evidence:** Link screenshots, recordings, relevant error messages, or sanitized logs. Never publish passwords or private user data.
+**Evidence:** Link screenshots, recordings, error messages, or sanitized logs. Do not publish passwords or private user data.
 
-## Resolution and Verification
+## Resolution and Retest
 
 - **Status:** New / Assigned / In progress / Fixed / Ready for retest / Verified / Closed / Reopened
-- **Resolution / developer notes:** 
-- **Retested by / date:** 
+- **Resolution / developer notes:**
+- **Retested by / date:**
 - **Retest result:** Pass / Fail / Blocked / Not retested
 - **Comments:**
+
+## A Few Writing Reminders
+
+Give each issue a specific title, keep unrelated defects in separate reports, and write steps someone else can repeat. Describe what happened without guessing at blame or cause.
+
+See the [fictional examples](Bug-Report-Examples.md) for a comparison.
