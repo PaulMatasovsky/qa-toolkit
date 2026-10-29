@@ -1,22 +1,22 @@
 # Test Case Template
 
-*AI-generated blank template; no execution has occurred.*
+*AI-generated blank test design template; not an executed test.*
 
-- **Test case ID:** 
-- **Title:** 
-- **Feature / requirement:** 
-- **Author / date:** 
-- **Environment:** 
+- **Test case ID:**
+- **Title:**
+- **Feature / requirement:**
+- **Author / date:**
+- **Environment:**
 
 ## Objective
 
-What behavior does this test verify?
+What behavior am I checking?
 
 ## Preconditions and Test Data
 
-State the required setup. Use synthetic or approved test data; do not record private credentials.
+What setup is needed? Use synthetic or approved data; never include private credentials.
 
-## Steps
+## Steps and Expected Results
 
 | Step | Action | Expected result |
 |---|---|---|
@@ -24,10 +24,4 @@ State the required setup. Use synthetic or approved test data; do not record pri
 | 2 | — | — |
 | 3 | — | — |
 
-## Execution Record
-
-- **Actual result:** 
-- **Status:** NOT RUN / PASS / FAIL / BLOCKED / N/A
-- **Date / tester:** 
-- **Defect / evidence links:** 
-- **Notes:**
+Keep the steps clear enough for another tester to follow. Record what actually happened, along with any evidence or defects, in the [test execution log](../Templates/Test-Execution-Log.md).

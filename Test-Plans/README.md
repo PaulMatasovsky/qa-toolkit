@@ -1,11 +1,7 @@
 # Test Plans
 
-This folder contains a planning template for defining a future testing cycle.
+A test plan helps me decide what to cover, what to leave out, and what counts as finished.
 
-- [Software Test Plan Template](Test-Plan-Template.md) — draft to tailor to a real project.
+- [Test Plan Template](Test-Plan-Template.md)
 
-**Status:** No approved or executed test plan. An actual plan will be developed and reviewed when the hands-on website audit begins.
-
-## AI Transparency
-
-AI generated the initial planning template. It is a learning and preparation artifact, not a tested or approved plan.
+**AI transparency:** AI generated this blank planning template. It has not been approved or used for a completed audit.

@@ -1,21 +1,22 @@
-# Planning Note: Proposed QA Strategy
+# Planning Note: My First QA Audit
 
-**Original date:** July 11, 2026  
-**Provenance:** AI-generated learning/planning note; **not an executed QA journal entry**.
+**Original date:** July 11, 2026
 
-## Proposed Workflow
+**AI transparency:** AI generated the original planning notes from my learning goals. This is a plan, not a record of tests I've performed.
 
-1. Define the features and risks in scope.
-2. Adapt a project-specific test plan and checklist.
-3. Execute a smoke test.
-4. Run applicable regression tests after changes.
-5. Record actual results and reproducible defects.
-6. Retest fixes and summarize the findings.
+## Why I Started
 
-This is a proposed process to learn and refine through practical testing, not a claim that these steps have been completed.
+I wanted reusable resources to help me learn manual QA and eventually audit a real website. The first set included checklists, test cases, a test plan, a bug report template, and reporting templates.
 
-## Intended First Project
+I plan to keep these general resources in the toolkit and put actual findings, screenshots, and results with the project being tested.
 
-My portfolio website is the intended first hands-on QA exercise. Actual audit findings and evidence will be documented when the testing is carried out.
+## The Plan
 
-The goal is to learn by doing, rather than continuing to generate reference material without validating it.
+1. Choose a manageable part of my portfolio website to test.
+2. Review and adapt the plan, checklist, and test cases.
+3. Run a smoke test and record what happens.
+4. Test relevant behavior after changes.
+5. Document any reproducible defects and retest fixes.
+6. Summarize the results and what I learned.
+
+The goal is to move from preparing documents to doing hands-on testing. I haven't completed those steps yet.

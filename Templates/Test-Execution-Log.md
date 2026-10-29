@@ -2,24 +2,14 @@
 
 *AI-generated blank template. No tests have been executed.*
 
-- **Project / release:** 
-- **Tester:** 
-- **Date:** 
+- **Project / release:**
+- **Tester / date:**
+- **Environment:**
 
-| Test case ID | Feature | Result (Pass / Fail / Blocked / N/A) | Defect ID | Evidence / notes |
+| Test case ID | Result (Pass / Fail / Blocked / N/A) | What actually happened | Defect link | Evidence / notes |
 |---|---|---|---|---|
-| — | — | NOT RUN | — | — |
+| — | NOT RUN | — | — | — |
 
-## Summary
+**Issues to revisit / next actions:**
 
-| Metric | Count |
-|---|---|
-| Executed | — |
-| Passed | — |
-| Failed | — |
-| Blocked | — |
-| Not run | — |
-
-**Comments / next actions:** 
-
-Replace the placeholder row with actual test executions. A blank or example row is not a test result.
+Replace the placeholder row with actual observations. Use the [summary report](Test-Summary-Report.md) for totals and the overall assessment.

@@ -1,33 +1,27 @@
 # QA Toolkit
 
-**Project status:** **In Progress** · **Activity:** Paused (pending hands-on audit)
+**Project status:** **In Progress** · **Activity:** Paused (hands-on audit pending)
 
-**Validation:** No completed website audit or verified test execution yet.
+I put this toolkit together to learn how to plan and document manual QA tests. My first planned project is an audit of [my portfolio website](https://paulmatasovsky.com/).
 
-I created this repository to learn practical QA workflows and prepare to audit my portfolio website. It provides draft checklists, test cases, plans, reporting templates, and reference material that can be adapted for real testing.
+For now, these are draft resources and examples. I haven't completed the website audit or verified any test results.
 
-**These are preparation resources, not evidence that I have completed testing.**
+## What's Here
 
-## Contents
+- [Checklists](Checklists/) — quick smoke checks and broader regression checks.
+- [Test Cases](Test-Cases/) — a reusable case template and sample scenarios.
+- [Test Plans](Test-Plans/) — a template for deciding what to test and why.
+- [Bug Reports](Bug-Reports/) — a report template, examples, and severity guidance.
+- [Templates](Templates/) — an execution log and a final summary report.
+- [Documentation](Documentation/) — short QA study notes.
+- [Planning Notes](Learning-Journal/) — the original plan for using this toolkit.
 
-- [Checklists](Checklists/) — draft website smoke and regression checklists.
-- [Test Cases](Test-Cases/) — reusable case template and illustrative test scenarios.
-- [Test Plans](Test-Plans/) — planning template for a future test cycle.
-- [Bug Reports](Bug-Reports/) — report template, writing guide, and fictional examples.
-- [Templates](Templates/) — execution log and summary report templates.
-- [Documentation](Documentation/) — short QA reference notes.
-- [Learning Journal](Learning-Journal/) — planning notes from the initial learning exercise.
+## How I Plan to Use It
 
-## Intended Workflow
+I'll choose a test scope, adapt the relevant materials, run the tests myself, record what happened, and retest any fixes. Actual findings and evidence will go with the project being tested.
 
-For a specific project, I intend to define the test scope, adapt the checklists and test cases, perform the tests, record actual results, and retest any defects.
-
-## Current Status and Next Step
-
-This repository is paused while the portfolio website is prepared for review. **Next:** Perform and document a hands-on website audit, including actual results and any verified defects. Until then, the repository demonstrates preparation and learning rather than completed QA execution.
+**Next step:** Carry out a small, documented audit of my portfolio website.
 
 ## AI Transparency
 
-I defined the learning goal, intended use, and plan to apply the toolkit to my portfolio website. **AI generated the initial checklists, templates, reference notes, and illustrative examples.** These are draft learning materials for my review and adaptation, not work I claim to have personally executed.
-
-No tests are being run by AI behind the scenes, and no completed audit or verified test results are represented here.
+I set the learning goal and intended use of the toolkit. AI generated the initial checklists, templates, example scenarios, and reference notes. These materials are for review and adaptation; they do not represent testing I have already performed.

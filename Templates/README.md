@@ -1,12 +1,8 @@
-# Templates
+# Reporting Templates
 
-These reusable templates are intended for recording and summarizing real QA work when a test cycle is performed.
+These serve two different jobs: recording individual results as tests happen and summarizing the finished test cycle.
 
-- [Test Execution Log](Test-Execution-Log.md)
-- [Test Summary Report](Test-Summary-Report.md)
+- [Test Execution Log](Test-Execution-Log.md) — what happened when each test was run.
+- [Test Summary Report](Test-Summary-Report.md) — overall results, open issues, and lessons learned.
 
-**Status:** Unfilled drafts; they contain no completed tests or results.
-
-## AI Transparency
-
-AI generated the initial templates. They will need to be reviewed and completed using actual observations during future hands-on testing.
+**AI transparency:** AI generated both blank templates. They contain no completed tests or results.
