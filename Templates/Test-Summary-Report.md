@@ -1,6 +1,6 @@
 # Test Summary Report
 
-> Fill this in at the end of a test cycle. Take the counts from the [execution log](Test-Execution-Log.md).
+> Fill this in at the end of a test cycle. Take the counts from the checklists and the [execution log](Test-Execution-Log.md). Count each check by its latest result.
 > Delete these instruction lines when you use the template.
 
 ## Project Information
@@ -22,6 +22,7 @@ What was tested? What was left out, and why?
 | Passed | |
 | Failed | |
 | Blocked | |
+| N/A | |
 | Not run | |
 | **Total checks** | |
 

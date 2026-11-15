@@ -21,6 +21,7 @@
 
 - **Testing types:** Smoke / Regression / Functional / Accessibility / Exploratory / Other (see [Testing Types](../Reference/Testing-Types.md))
 - **Checklists used:** [Smoke](../Checklists/Website-Smoke-Test.md) / [Regression](../Checklists/Website-Regression-Test.md) / None
+- **Exploratory sessions planned:** (goal and time limit for each, or None)
 - **Browsers and devices:**
 - **Test data and accounts:** Use test or approved data. Never record real passwords or private user data.
 - **Tools and evidence:** (for example: browser dev tools, screenshots, screen recordings)
@@ -42,7 +43,8 @@ Time limits, unsupported browsers, unavailable services, or unclear requirements
 
 | Deliverable | Link |
 |---|---|
-| Test cases | |
+| Checklists | |
+| Test cases and exploratory sessions | |
 | Execution log | |
 | Bug reports | |
 | Summary report | |

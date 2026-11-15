@@ -10,7 +10,7 @@
 - **Project / version:**
 - **Environment:** Production / Staging / Local / Other
 - **Browser / device / operating system:**
-- **Found by test:** (test case ID or checklist item)
+- **Found by:** (checklist item, test case, or session ID, such as SMK-09, TC-003, or EXP-001)
 
 ## Impact
 
@@ -34,7 +34,7 @@ See [Severity vs. Priority](../Reference/Severity-vs-Priority.md) for definition
 
 **Actual result:**
 
-**Evidence:** Link screenshots, recordings, or error messages. Remove passwords and private data first.
+**Evidence:** Link screenshots, recordings, or error messages saved in `evidence/`, for example `evidence/BUG-001-mobile-menu.png`. Remove passwords and private data first.
 
 ## Resolution
 
