@@ -2,9 +2,9 @@
 
 **Project status:** **In Progress** · **Activity:** Paused (hands-on audit pending)
 
-I put this toolkit together to learn how to plan and document manual QA tests. My first planned project is an audit of [my portfolio website](https://paulmatasovsky.com/).
+I put this toolkit together in July 2026 to learn how to plan and document manual QA tests. I have not worked on it since. [My portfolio website](https://paulmatasovsky.com/) went through a rebuild and then a redesign, and the audit I planned kept waiting for the site to settle.
 
-For now, these are draft resources and examples. I haven't completed the website audit or verified any test results.
+These are still draft resources and examples. I haven't run any of the tests or verified any results.
 
 ## What's Here
 
@@ -20,7 +20,7 @@ For now, these are draft resources and examples. I haven't completed the website
 
 I'll choose a test scope, adapt the relevant materials, run the tests myself, record what happened, and retest any fixes. Actual findings and evidence will go with the project being tested.
 
-**Next step:** Carry out a small, documented audit of my portfolio website.
+**Next step:** Carry out a small, documented audit of my portfolio website now that Website 2.5 is published. Every page changed in the redesign, which makes it a good first test.
 
 ## AI Transparency
 
