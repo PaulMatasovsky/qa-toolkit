@@ -1,45 +1,48 @@
-# Website Smoke Test Checklist
+# Website Smoke Test
 
-**AI-generated blank checklist — not executed.** Adapt this to a real website before testing.
+> A quick check that the most important parts of a website work after a deployment or change. It usually takes 10 to 20 minutes on a small site.
+> Remove items that do not apply and add items specific to your site. Record any failure in the [execution log](../Templates/Test-Execution-Log.md).
+> Delete these instruction lines when you use the checklist.
 
-**Purpose:** Quickly check core functions after a deployment or significant change. A typical small-site smoke check may take about 5–15 minutes.
+- **Website / release:**
+- **Date / tester:**
+- **Browser / device:**
+- **Environment:**
 
-- **Website / release:** 
-- **Date / tester:** 
-- **Browser / device:** 
-- **Environment:** 
+## Pages and Navigation
 
-## Core Checks
+- [ ] Homepage loads without errors.
+- [ ] Header, logo link, and main menu work.
+- [ ] Each main page loads.
+- [ ] Important internal and external links go to the right place.
+- [ ] Footer and contact links work.
 
-### Pages and Navigation
+## Forms and Content
 
-- [ ] Homepage loads without a major error.
-- [ ] Header, logo, and primary navigation work.
-- [ ] Important destination pages load.
-- [ ] Major internal and external links work.
-- [ ] Footer and essential contact links work.
+- [ ] Main forms load, show errors for missing required fields, and submit successfully.
+- [ ] Images, downloads (such as a resume PDF), and embedded content load.
+- [ ] No overlapping text, broken layouts, or placeholder text.
 
-### Forms and Content
+## Mobile
 
-- [ ] Core forms load, validate required fields, and submit successfully, if applicable.
-- [ ] Images, downloads, and important embedded content work.
-- [ ] No major visual or text-overlap problems appear.
+- [ ] The mobile menu opens, closes, and links work.
+- [ ] Buttons and forms are usable on a phone-sized screen.
 
-### Mobile and Basic Security
+## Accessibility Basics
 
-- [ ] Important mobile navigation and controls remain usable.
-- [ ] HTTPS loads without browser security warnings.
-- [ ] Protected content remains restricted, if applicable.
+- [ ] Every page can be navigated with the keyboard alone (Tab, Shift+Tab, Enter).
+- [ ] A visible focus outline shows which element is selected.
+- [ ] Text is readable against its background color.
 
-### Technical Review
+## Security and Technical
 
-- [ ] No obvious new console errors or failed essential requests.
+- [ ] The site loads over HTTPS without browser warnings.
+- [ ] Private or admin pages are not reachable without signing in.
+- [ ] The browser console shows no new errors on main pages.
 
-## Results
+## Result
 
-- **Status:** NOT RUN / PASS / FAIL / BLOCKED
-- **Skipped or not-applicable checks:** 
-- **Defects / evidence:** 
-- **Notes:** 
-
-A checked box only records that an item was reviewed; actual results and evidence belong in the execution log.
+- **Overall status:** Not run / Pass / Fail / Blocked
+- **Skipped items and why:**
+- **Bug IDs:**
+- **Notes:**
