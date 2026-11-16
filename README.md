@@ -2,7 +2,7 @@
 
 **Project status:** **In Progress** · **Activity:** Active 
 
-I put this toolkit together in July 2026 to learn how to plan and document manual QA tests. The project I planned to use this on went through a rebuild and then a redesign, so the planned audit is still waiting for the site to settle.
+I put this toolkit together in July 2026 to learn how to plan and document manual QA tests. I postponed the planned audit while my portfolio website was rebuilt and then redesigned. With Website 2.5 now published, that audit is the next step.
 
 These are still draft resources and examples. I haven't run any of the tests or verified any results.
 
