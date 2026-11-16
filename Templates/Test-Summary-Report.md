@@ -1,47 +1,50 @@
 # Test Summary Report
 
-*AI-generated blank template. No testing results are provided.*
+> Fill this in at the end of a test cycle. Take the counts from the checklists and the [execution log](Test-Execution-Log.md). Count each check by its latest result.
+> Delete these instruction lines when you use the template.
 
 ## Project Information
 
-- **Project / release:** 
-- **Test cycle:** 
-- **Tester / date:** 
-- **Environment:** 
+- **Project / release:**
+- **Test dates:**
+- **Tester:**
+- **Environment:**
+- **Test plan:** (link)
 
 ## Scope
 
-What was tested? What was excluded? 
-
-## Testing Performed
-
-List the actual testing types and links to the executed cases or checklists.
+What was tested? What was left out, and why?
 
 ## Results
 
-| Metric | Count |
+| Result | Count |
 |---|---|
-| Test cases executed | — |
-| Passed | — |
-| Failed | — |
-| Blocked | — |
-| Not executed | — |
+| Passed | |
+| Failed | |
+| Blocked | |
+| N/A | |
+| Not run | |
+| **Total checks** | |
 
-## Defects
+## Bugs
 
-| Severity | Count |
-|---|---|
-| Critical | — |
-| High | — |
-| Medium | — |
-| Low | — |
+| Severity | Found | Fixed and retested | Still open |
+|---|---|---|---|
+| Critical | | | |
+| High | | | |
+| Medium | | | |
+| Low | | | |
 
-**Outstanding defects:** 
+**Open bugs:** (list IDs with one-line descriptions)
 
-**Risks and limitations:** 
+## Assessment
 
-**Recommendation:** Not assessed / Ready / Ready with known issues / Not ready
+**Recommendation:** Ready / Ready with known issues / Not ready
 
-**Evidence and links:** 
+**Reason:**
 
-**Lessons learned / improvements:**
+**Risks and limitations:** What was not covered, and what could still go wrong?
+
+## Lessons Learned
+
+What would you test differently next time?
