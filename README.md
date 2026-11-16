@@ -1,8 +1,8 @@
 # QA Toolkit
 
-**Project status:** **In Progress** · **Activity:** Active (templates ready; first use planned on my portfolio website)
+**Project status:** **In Progress** · **Activity:** Active 
 
-I put this toolkit together in July 2026 to learn how to plan and document manual QA tests. I have not worked on it since. [My portfolio website](https://paulmatasovsky.com/) went through a rebuild and then a redesign, and the audit I planned kept waiting for the site to settle.
+I put this toolkit together in July 2026 to learn how to plan and document manual QA tests. The project I planned to use this on went through a rebuild and then a redesign, so the planned audit is still waiting for the site to settle.
 
 These are still draft resources and examples. I haven't run any of the tests or verified any results.
 
