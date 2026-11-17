@@ -2,7 +2,7 @@
 
 **Project status:** **In Progress** · **Activity:** Active 
 
-I put this toolkit together in July 2026 to learn how to plan and document manual QA tests. I postponed the planned audit while my portfolio website was rebuilt and then redesigned. With Website 2.5 now published, that audit is the next step.
+I put this toolkit together in July 2026 to learn how to plan and document manual QA tests. In November 2026 I added checklists for data migrations, for my Practice Data Migration project. I postponed the planned audit while my portfolio website was rebuilt and then redesigned. With Website 2.5 now published, that audit is the next step.
 
 These are still draft resources and examples. I haven't run any of the tests or verified any results.
 
@@ -18,10 +18,12 @@ These are still draft resources and examples. I haven't run any of the tests or 
 | | [Test-Summary-Report.md](Templates/Test-Summary-Report.md) | Total the results and give a ready / not ready call |
 | [Checklists](Checklists/) | [Website-Smoke-Test.md](Checklists/Website-Smoke-Test.md) | Run 16 quick checks after a deployment or small change |
 | | [Website-Regression-Test.md](Checklists/Website-Regression-Test.md) | Run 33 checks after a redesign or update, including accessibility and WordPress |
+| | [Data-Migration-Smoke-Test.md](Checklists/Data-Migration-Smoke-Test.md) | Run 12 quick checks after every data load, before anyone relies on it |
+| | [Data-Migration-Validation.md](Checklists/Data-Migration-Validation.md) | Run 32 checks on mapping, formats, duplicates, relationships, and reconciliation before sign-off |
 | [Reference](Reference/) | [Testing-Types.md](Reference/Testing-Types.md) | Choose testing types and test design techniques |
 | | [Severity-vs-Priority.md](Reference/Severity-vs-Priority.md) | Rate how bad a bug is and how soon to fix it |
 | | [Bug-Report-Examples.md](Reference/Bug-Report-Examples.md) | Compare a weak and a strong bug report |
-| | [Free-Tools.md](Reference/Free-Tools.md) | Find free tools for links, accessibility, and performance |
+| | [Free-Tools.md](Reference/Free-Tools.md) | Find free tools for links, accessibility, performance, and data checks |
 
 Everything is plain Markdown. It reads well on GitHub and opens in any text editor.
 
