@@ -7,11 +7,11 @@
 
 - **Project / release:**
 - **Prepared by / date:**
-- **Environment:** (for example: production URL, staging URL, local build)
+- **Environment:** (for example: production URL, staging URL, local build, or source and target systems for a data migration)
 
 ## Purpose and Scope
 
-**Purpose:** Why is this testing needed? (For example: a redesign, a plugin update, a new feature.)
+**Purpose:** Why is this testing needed? (For example: a redesign, a plugin update, a new feature, a data migration.)
 
 **In scope:** Which pages, features, and user flows will be checked?
 
@@ -20,9 +20,9 @@
 ## Approach
 
 - **Testing types:** Smoke / Regression / Functional / Accessibility / Exploratory / Other (see [Testing Types](../Reference/Testing-Types.md))
-- **Checklists used:** [Smoke](../Checklists/Website-Smoke-Test.md) / [Regression](../Checklists/Website-Regression-Test.md) / None
+- **Checklists used:** [Website Smoke](../Checklists/Website-Smoke-Test.md) / [Website Regression](../Checklists/Website-Regression-Test.md) / [Data Migration Smoke](../Checklists/Data-Migration-Smoke-Test.md) / [Data Migration Validation](../Checklists/Data-Migration-Validation.md) / None
 - **Exploratory sessions planned:** (goal and time limit for each, or None)
-- **Browsers and devices:**
+- **Browsers and devices:** (or N/A for data-only testing)
 - **Test data and accounts:** Use test or approved data. Never record real passwords or private user data.
 - **Tools and evidence:** (for example: browser dev tools, screenshots, screen recordings)
 - **Tester / reviewer:**
